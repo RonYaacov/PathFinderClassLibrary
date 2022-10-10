@@ -1,0 +1,12 @@
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.deps.json
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.dll
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.pdb
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.csproj.AssemblyReference.cache
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.AssemblyInfoInputs.cache
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.AssemblyInfo.cs
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.dll
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\ref\PathFinder.dll
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.pdb
+C:\Users\ronya\Programing\beckend\C#\PathFinder\PathFinder\obj\Debug\net6.0\refint\PathFinder.dll
